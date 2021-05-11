@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 请假单信息
+ * 请假单信息，聚合根
  */
 @Data
 public class Leave {
