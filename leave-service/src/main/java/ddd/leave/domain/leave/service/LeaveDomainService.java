@@ -16,6 +16,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * 领域服务，使用多个实体组合出的相对复杂的业务逻辑
+ */
 @Service
 @Slf4j
 public class LeaveDomainService {

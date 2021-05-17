@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 请假单信息，聚合根
+ * 请假单信息，聚合根，包含属性、对实体和值对象的引用以及自己的业务行为和方法。
  */
 @Data
 public class Leave {

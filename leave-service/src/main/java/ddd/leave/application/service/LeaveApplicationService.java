@@ -13,6 +13,9 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/**
+ * 应用服务完成领域服务的组合与编排
+ */
 @Service
 public class LeaveApplicationService{
 

@@ -7,6 +7,9 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * 值对象，除了属性集之外，还可以有简单的数据查询和转换服务
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
